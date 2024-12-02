@@ -1,6 +1,8 @@
+local S = minetest.get_translator(minetest.get_current_modname())
+
 -- White String Lights
 minetest.register_node("mesecraft_holiday_lights:lights_white", {
-	description = "White String Lights",
+	description = S("White String Lights"),
 	tiles = {"mesecraft_holiday_lights_white.png"},
 	inventory_image = "mesecraft_holiday_lights_white.png",
 	wield_image = "mesecraft_holiday_lights_white.png",
@@ -23,7 +25,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_white", {
 
 -- Red String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_red", {
-        description = "Red String Lights",
+        description = S("Red String Lights"),
         tiles = {"mesecraft_holiday_lights_red.png"},
         inventory_image = "mesecraft_holiday_lights_red.png",
         wield_image = "mesecraft_holiday_lights_red.png",
@@ -46,7 +48,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_red", {
 
 -- Green String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_green", {
-        description = "Green String Lights",
+        description = S("Green String Lights"),
         tiles = {"mesecraft_holiday_lights_green.png"},
         inventory_image = "mesecraft_holiday_lights_green.png",
         wield_image = "mesecraft_holiday_lights_green.png",
@@ -69,7 +71,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_green", {
 
 -- Blue String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_blue", {
-        description = "Blue String Lights",
+        description = S("Blue String Lights"),
         tiles = {"mesecraft_holiday_lights_blue.png"},
         inventory_image = "mesecraft_holiday_lights_blue.png",
         wield_image = "mesecraft_holiday_lights_blue.png",
@@ -92,7 +94,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_blue", {
 
 -- Yellow String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_yellow", {
-        description = "Yellow String Lights",
+        description = S("Yellow String Lights"),
         tiles = {"mesecraft_holiday_lights_yellow.png"},
         inventory_image = "mesecraft_holiday_lights_yellow.png",
         wield_image = "mesecraft_holiday_lights_yellow.png",
@@ -115,7 +117,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_yellow", {
 
 -- Purple String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_purple", {
-        description = "Purple String Lights",
+        description = S("Purple String Lights"),
         tiles = {"mesecraft_holiday_lights_purple.png"},
         inventory_image = "mesecraft_holiday_lights_purple.png",
         wield_image = "mesecraft_holiday_lights_purple.png",
@@ -138,7 +140,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_purple", {
 
 -- Orange String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_orange", {
-        description = "Orange String Lights",
+        description = S("Orange String Lights"),
         tiles = {"mesecraft_holiday_lights_orange.png"},
         inventory_image = "mesecraft_holiday_lights_orange.png",
         wield_image = "mesecraft_holiday_lights_orange.png",
@@ -161,7 +163,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_orange", {
 
 -- Pink String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_pink", {
-        description = "Pink String Lights",
+        description = S("Pink String Lights"),
         tiles = {"mesecraft_holiday_lights_pink.png"},
         inventory_image = "mesecraft_holiday_lights_pink.png",
         wield_image = "mesecraft_holiday_lights_pink.png",
@@ -184,7 +186,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_pink", {
 
 -- Rainbow String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_rainbow", {
-        description = "Rainbow String Lights",
+        description = S("Rainbow String Lights"),
         tiles = {"mesecraft_holiday_lights_rainbow.png"},
         inventory_image = "mesecraft_holiday_lights_rainbow.png",
         wield_image = "mesecraft_holiday_lights_rainbow.png",
@@ -207,7 +209,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_rainbow", {
 
 -- Festive String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_festive", {
-        description = "Festive String Lights",
+        description = S("Festive String Lights"),
         tiles = {"mesecraft_holiday_lights_festive.png"},
         inventory_image = "mesecraft_holiday_lights_festive.png",
         wield_image = "mesecraft_holiday_lights_festive.png",
@@ -231,7 +233,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_festive", {
 
 -- Spooky String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_spooky", {
-        description = "Spooky String Lights",
+        description = S("Spooky String Lights"),
         tiles = {"mesecraft_holiday_lights_spooky.png"},
         inventory_image = "mesecraft_holiday_lights_spooky.png",
         wield_image = "mesecraft_holiday_lights_spooky.png",
@@ -254,7 +256,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_spooky", {
 
 -- Patriotic String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_patriotic", {
-        description = "Patriotic String Lights",
+        description = S("Patriotic String Lights"),
         tiles = {"mesecraft_holiday_lights_patriotic.png"},
         inventory_image = "mesecraft_holiday_lights_patriotic.png",
         wield_image = "mesecraft_holiday_lights_patriotic.png",
@@ -277,7 +279,7 @@ minetest.register_node("mesecraft_holiday_lights:lights_patriotic", {
 
 -- Icy String Lights   
 minetest.register_node("mesecraft_holiday_lights:lights_icy", {
-        description = "Icy String Lights",
+        description = S("Icy String Lights"),
         tiles = {"mesecraft_holiday_lights_icicle.png"},
         inventory_image = "mesecraft_holiday_lights_icicle.png",
         wield_image = "mesecraft_holiday_lights_icicle.png",

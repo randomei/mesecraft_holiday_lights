@@ -1,0 +1,23 @@
+# textdomain: mesecraft_holiday_lights
+Wire=
+White Light Bulbs=
+Yellow Light Bulbs=
+Red Light Bulbs=
+Green Light Bulbs=
+Blue Light Bulbs=
+Purple Light Bulbs=
+Pink Light Bulbs=
+Orange Light Bulbs=
+White String Lights=
+Red String Lights=
+Green String Lights=
+Blue String Lights=
+Yellow String Lights=
+Purple String Lights=
+Orange String Lights=
+Pink String Lights=
+Rainbow String Lights=
+Festive String Lights=
+Spooky String Lights=
+Patriotic String Lights=
+Icy String Lights=
